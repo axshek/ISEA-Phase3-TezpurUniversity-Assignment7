@@ -1,0 +1,8 @@
+timestamp,sender,receiver,message_type,message
+2026-07-16 14:33:05,abhishek,ALL,broadcast,hello
+2026-07-16 14:33:16,rahul,ALL,broadcast,hi there
+2026-07-16 14:33:33,abhishek,rahul,private,ok this is my private message to rahul brooo
+2026-07-16 14:39:26,abhishek,ALL,broadcast,hi
+2026-07-16 14:39:31,rahul,ALL,broadcast,hey there!
+2026-07-16 14:45:18,rahul,ALL,broadcast,hu
+2026-07-16 14:45:20,rahul,ALL,broadcast,hi

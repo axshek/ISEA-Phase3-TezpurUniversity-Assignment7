@@ -1,0 +1,25 @@
+2026-07-16 14:29:27 | ACCOUNT_CREATED | user=abhishek | ip=10.0.0.2 | 
+2026-07-16 14:32:40 | ACCOUNT_CREATED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:34:17 | AUTH_DUPLICATE_LOGIN_BLOCKED | user=abhishek | ip=10.0.0.4 | 
+2026-07-16 14:34:50 | AUTH_DUPLICATE_LOGIN_BLOCKED | user=abhishek | ip=10.0.0.4 | 
+2026-07-16 14:35:11 | AUTH_DUPLICATE_LOGIN_BLOCKED | user=rahul | ip=10.0.0.4 | 
+2026-07-16 14:35:18 | LOGOUT | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:18 | DISCONNECTED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:25 | LOGIN_FAILED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:40 | LOGIN_FAILED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:42 | LOGIN_FAILED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:43 | LOGIN_FAILED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:35:45 | ACCOUNT_LOCKED | user=rahul | ip=10.0.0.3 | too many failed attempts, locked for 60s
+2026-07-16 14:38:46 | LOGIN_SUCCESS | user=abhishek | ip=10.0.0.2 | 
+2026-07-16 14:39:20 | LOGIN_SUCCESS | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:44:27 | SESSION_TIMEOUT | user=abhishek | ip=10.0.0.2 | 
+2026-07-16 14:44:27 | DISCONNECTED | user=abhishek | ip=10.0.0.2 | 
+2026-07-16 14:45:05 | LOGIN_SUCCESS | user=abhishek | ip=10.0.0.2 | 
+2026-07-16 14:45:25 | LOGOUT | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:45:25 | DISCONNECTED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:45:39 | LOGIN_SUCCESS | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:46:47 | LOGOUT | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:46:47 | DISCONNECTED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:47:09 | LOGIN_FAILED | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:47:59 | LOGIN_SUCCESS | user=rahul | ip=10.0.0.3 | 
+2026-07-16 14:48:27 | AUTH_DUPLICATE_LOGIN_BLOCKED | user=abhishek | ip=10.0.0.4 | 
